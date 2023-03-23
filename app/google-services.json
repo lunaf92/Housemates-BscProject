@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "128625952988",
+    "project_id": "housemates-1156e",
+    "storage_bucket": "housemates-1156e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128625952988:android:632ba8530537f5d8be8c19",
+        "android_client_info": {
+          "package_name": "x.lunacode.housemates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128625952988-ck51qgpr706khniv7u6qtgjpaqal40vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "x.lunacode.housemates",
+            "certificate_hash": "efeb6ce1f0537f5bd7629802f4ed65bf3a097509"
+          }
+        },
+        {
+          "client_id": "128625952988-spne4j6gtdkt8lahonbhn5dg46e8h2bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbJAv0KwwZ_QzKeykTBgRxDL3NQwtSVLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128625952988-spne4j6gtdkt8lahonbhn5dg46e8h2bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
